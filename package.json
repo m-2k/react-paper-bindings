@@ -1,6 +1,7 @@
 {
   "name": "react-paper-bindings",
   "description": "Paper.js bindings for React",
+  "version": "1.0.3",
   "author": "Bojan Hribernik <bojan.hribernik@gmail.com> (http://climbuddy.com/)",
   "license": "ISC",
   "homepage": "https://github.com/HriBB/react-paper-bindings",
